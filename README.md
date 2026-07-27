@@ -274,16 +274,6 @@ me = SantoshAchary()
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=santosh374maker&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
-
----
-
 # 🌍 Connect With Me
 
 <p align="center">
