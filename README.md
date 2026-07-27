@@ -1,25 +1,20 @@
 <div align="center">
 
-# 👋 Hi, I'm Santosh Achary
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,50:203A43,100:2C5364&text=S%20Santosh%20Achary&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20Engineer&descAlignY=58"/>
 
-### AI/ML Engineer • Generative AI Developer • Building Production-Ready Intelligent Systems
+# 👋 Welcome to My GitHub
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI+Developer;Building+Production+Ready+AI+Applications;FastAPI+%7C+LangChain+%7C+CrewAI+%7C+Python;Always+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer;Generative+AI+Developer;Building+Production-Ready+AI+Systems;FastAPI+%7C+LangChain+%7C+CrewAI+%7C+Python;Machine+Learning+%7C+LLMs+%7C+RAG;Open+to+AI%2FML+Engineer+Opportunities"/>
 
-<p>
-<a href="https://github.com/santosh374maker">
-<img src="https://komarev.com/ghpvc/?username=santosh374maker&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</a>
+<br>
 
-<a href="https://github.com/santosh374maker?tab=followers">
-<img src="https://img.shields.io/github/followers/santosh374maker?logo=github&style=for-the-badge" />
-</a>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-success?style=for-the-badge)](https://finance-anomaly-detector.vercel.app)
 
-<a href="https://github.com/santosh374maker">
-<img src="https://img.shields.io/github/stars/santosh374maker?style=for-the-badge" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santosh_Achary-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/s-santosh-achary)
 
-</p>
+[![Email](https://img.shields.io/badge/Email-acharysantosh19%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:acharysantosh19@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=santosh374maker&style=for-the-badge&color=blue)
 
 </div>
 
@@ -27,22 +22,79 @@
 
 # 💫 About Me
 
-💡 AI/ML Engineer passionate about building production-ready AI systems that solve real-world business problems.
+```python
+class SantoshAchary:
 
-- 🔭 Building Intelligent AI Applications
-- 🤖 Working with LLMs, RAG, Agentic AI & Multi-Agent Systems
-- ⚡ Love developing scalable ML APIs using FastAPI
-- 🌱 Currently exploring MCP, Advanced RAG & AI Engineering
-- 📈 Interested in MLOps, Model Deployment & AI Automation
-- 💬 Ask me about Python, Machine Learning, FastAPI, LangChain, CrewAI and Docker
+    def __init__(self):
+
+        self.role = "AI/ML Engineer"
+
+        self.location = "India 🇮🇳"
+
+        self.languages = [
+            "Python",
+            "SQL"
+        ]
+
+        self.specialization = [
+            "Machine Learning",
+            "Deep Learning",
+            "Generative AI",
+            "LLMs",
+            "RAG",
+            "Agentic AI"
+        ]
+
+        self.backend = [
+            "FastAPI",
+            "Flask",
+            "REST APIs",
+            "Streamlit"
+        ]
+
+        self.mlops = [
+            "Docker",
+            "Git",
+            "GitHub Actions",
+            "MLflow",
+            "CI/CD"
+        ]
+
+        self.currently_learning = [
+            "MCP",
+            "Advanced RAG",
+            "AI Engineering",
+            "Distributed AI Agents"
+        ]
+
+        self.life_philosophy = "Build AI that solves real-world problems."
+
+me = SantoshAchary()
+```
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Current Focus
+
+- 🤖 Building Production Ready AI Applications
+
+- 🧠 Developing Multi-Agent AI Systems
+
+- ⚡ Designing FastAPI Backend APIs
+
+- 📚 Learning Advanced LLM Engineering
+
+- 🚀 Exploring MCP & AI Agents
+
+- 💼 Open to AI/ML Engineer Opportunities
+
+---
+
+# 🛠 Tech Stack
 
 ## 👨‍💻 Languages
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
 
@@ -50,25 +102,25 @@
 
 ---
 
-## 🤖 AI / Machine Learning
+## 🤖 Machine Learning
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
 
 </p>
 
-<p>
+<p align="center">
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-<img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge"/>
+![](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
+![](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
 </p>
 
@@ -76,23 +128,23 @@
 
 ## 🧠 Generative AI
 
-<p>
+<p align="center">
 
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+![](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/CrewAI-6C63FF?style=for-the-badge"/>
+![](https://img.shields.io/badge/CrewAI-6C63FF?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/RAG-7B68EE?style=for-the-badge"/>
+![](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
+![](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge"/>
+![](https://img.shields.io/badge/Agentic_AI-blueviolet?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge"/>
+![](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge"/>
+![](https://img.shields.io/badge/Groq_API-red?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+![](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
 
 </p>
 
@@ -100,27 +152,27 @@
 
 ## ⚙️ Backend Development
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,react"/>
 
 </p>
 
-<p>
+<p align="center">
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+![](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
 
-<img src="https://img.shields.io/badge/Gradio-FF9800?style=for-the-badge"/>
+![](https://img.shields.io/badge/Gradio-orange?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge"/>
+![](https://img.shields.io/badge/WebSocket-blue?style=for-the-badge)
 
 </p>
 
 ---
 
-## 🗄️ Databases
+## 🗄 Databases
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
 
@@ -128,21 +180,21 @@
 
 ---
 
-## ☁️ DevOps & Cloud
+## ☁️ DevOps
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=docker,git,github"/>
 
 </p>
 
-<p>
+<p align="center">
 
-<img src="https://img.shields.io/badge/CI/CD-0052CC?style=for-the-badge"/>
+![](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+![](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+![](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
 </p>
 
@@ -152,87 +204,105 @@
 
 ## 💳 Finance Anomaly Detector
 
-> Production-ready fraud detection platform built using Machine Learning, FastAPI and React.
+### AI-powered Financial Fraud Detection Platform
 
-**Highlights**
+✔ Isolation Forest
 
-- 🔹 Isolation Forest based anomaly detection
-- 🔹 Explainable AI predictions
-- 🔹 JWT Authentication
-- 🔹 Dockerized deployment
-- 🔹 PostgreSQL Database
-- 🔹 GitHub CI/CD
+✔ Explainable AI
+
+✔ JWT Authentication
+
+✔ Docker Deployment
+
+✔ PostgreSQL
+
+✔ FastAPI
+
+✔ React
+
+✔ CI/CD
 
 ---
 
 ## 🤖 Agentic Data Scientist
 
-> Autonomous Multi-Agent AI system that performs complete Data Science workflows.
+### Autonomous AI System for End-to-End Machine Learning
 
-**Features**
+✔ Multi-Agent Architecture
 
-- 📊 Data Cleaning
-- 📈 Exploratory Data Analysis
-- 🤖 Model Training
-- 🎯 Hyperparameter Optimization
-- 📄 Executive Report Generation
-- ⚡ Real-Time Agent Monitoring
+✔ CrewAI
+
+✔ FastAPI
+
+✔ React
+
+✔ WebSocket
+
+✔ XGBoost
+
+✔ LightGBM
+
+✔ Automated Model Selection
 
 ---
 
 ## 🌌 Black Hole AI Assistant
 
-> Retrieval-Augmented Generation (RAG) assistant for astronomy and space exploration.
+### Domain-Specific Retrieval-Augmented Generation System
 
-**Features**
+✔ LangChain
 
-- 🔹 Semantic Search
-- 🔹 FAISS Vector Database
-- 🔹 LangChain
-- 🔹 LLM Integration
-- 🔹 FastAPI Backend
+✔ FAISS
+
+✔ LLMs
+
+✔ Semantic Search
+
+✔ FastAPI
+
+✔ Vector Database
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosh374maker&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=santosh374maker&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosh374maker&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosh374maker&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
----
+<p align="center">
 
-<div align="center">
+<img width="70%" src="https://streak-stats.demolab.com?user=santosh374maker&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=santosh374maker&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+# 📈 Contribution Graph
+
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=santosh374maker&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🏆 GitHub Achievements
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=santosh374maker&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=santosh374maker&theme=tokyonight&no-frame=true&column=4"/>
 
-</div>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 🌍 Connect With Me
 
 <p align="center">
 
@@ -254,8 +324,20 @@
 
 <div align="center">
 
-### 💡 *"Building AI solutions that create real-world impact."*
+## 💭 Quote I Live By
 
-⭐ If you find my work interesting, consider starring my repositories.
+> **"Artificial Intelligence is not about replacing humans; it's about amplifying human potential through intelligent systems."**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
